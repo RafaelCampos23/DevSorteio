@@ -5,7 +5,7 @@
 
 [Estamos ONLINE, experimente agora]() :earth_americas:<br>
 
-<img src="" alt="Imagem-projeto></img>
+<img src="https://raw.githubusercontent.com/RafaelCampos23/DevSorteio/main/assets/DevSorteio%20-%20Proje%C3%A7%C3%A3o.jpg" alt="Imagem-projeto></img>
     
 <h2><b>Sobre o projeto:</b></h2>
     <p>Projeto Converty Money do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, o projeto conta com parâmetros de responsividade.</p>
