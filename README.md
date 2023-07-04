@@ -1,6 +1,11 @@
 
 <h1 align="center">DevSorteio</h1>
-    <img src="https://github.com/RafaelCampos23/DevSorteio/blob/main/assets/DevSorteioImg.png?raw=true"
+<br>
+<br>
+[Estamos ONLINE, experimente agora]() :earth_americas:<br>
+
+<img src="https://github.com/RafaelCampos23/DevSorteio/blob/main/assets/DevSorteioImg.png?raw=true" alt="imagem"
+
 <br>
 <br>    
 <h2><b>Sobre o projeto:</b></h2>
