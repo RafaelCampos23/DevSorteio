@@ -1,10 +1,5 @@
 
 <h1 align="center">DevSorteio</h1>
-![DevSorteioImg](https://github.com/RafaelCampos23/DevSorteio/assets/130353436/bef182a6-d0eb-46eb-8eeb-d670f1340951)
-
-
-<img src="https://github.com/RafaelCampos23/DevSorteio/assets/130353436/bef182a6-d0eb-46eb-8eeb-d670f1340951"
-
 <br>
 <br>    
 <h2><b>Sobre o projeto:</b></h2>
