@@ -1,5 +1,8 @@
 # DevSorteio
 <h1 align="center">DevSorteio</h1>
+
+<img src="https://github.com/RafaelCampos23/DevSorteio/blob/main/assets/DevSorteio%20-%20img.png?raw=true"
+
 <br>
 <br>    
 <h2><b>Sobre o projeto:</b></h2>
