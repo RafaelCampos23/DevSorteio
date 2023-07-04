@@ -1,12 +1,10 @@
 # DevSorteio
 <h1 align="center">DevSorteio</h1>
-<br>
-<br>
 
-[Estamos ONLINE, experimente agora]() :earth_americas:<br>
+<img src="https://github.com/RafaelCampos23/DevSorteio/blob/main/assets/DevSorteio%20-%20img.png?raw=true"
 
-<img src="https://github.com/RafaelCampos23/DevSorteio/blob/main/assets/DevSorteio%20-%20Proje%C3%A7%C3%A3o.png?raw=true" alt="Imagem-projeto></img>
-    
+<br>
+<br>    
 <h2><b>Sobre o projeto:</b></h2>
     <p>DevSorteio é um projeto do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, totalmente funcional e que conta com parâmetros de responsividade.</p>
 
