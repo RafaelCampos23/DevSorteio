@@ -1,7 +1,7 @@
-# DevSorteio
+
 <h1 align="center">DevSorteio</h1>
 
-<img src="./assets/DevSorteioProje%C3%A7%C3%A3o.png"
+<img src="https://raw.githubusercontent.com/RafaelCampos23/DevSorteio/main/assets/DevSorteioImg.png"
 
 <br>
 <br>    
