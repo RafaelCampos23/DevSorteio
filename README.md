@@ -2,7 +2,7 @@
 <h1 align="center">DevSorteio</h1>
 <br>
 <br>
-[Estamos ONLINE, experimente agora]() :earth_americas:<br>
+[Estamos ONLINE, experimente agora](https://rafaelcampos23.github.io/DevSorteio/) :earth_americas:<br>
 
 <img src="https://github.com/RafaelCampos23/DevSorteio/blob/main/assets/DevSorteioImg.png?raw=true" alt="imagem" alt="Imagem-projeto"></img>
 
